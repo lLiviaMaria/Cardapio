@@ -1,0 +1,32 @@
+.navbar {
+  background-color: rgb(183, 4, 4);
+  border: none;
+  border-radius: 0;
+}
+
+.navbar-brand {
+  padding: 15px;
+}
+
+.navbar-nav li {
+  padding: 15px 20px;
+}
+
+.navbar-nav li a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.navbar-nav li.active a {
+  background-color: rgb(247, 147, 39);
+  color: rgb(183, 4, 4);
+}
+
+.navbar-nav li a:hover {
+  color: rgb(247, 147, 39);
+}
+
+.navbar-brand a:hover {
+  color: #fff;
+}

@@ -1,0 +1,22 @@
+#tel{
+ text-align: left;
+ 
+}
+h2{
+    padding-bottom: 3%;
+    padding-top: 8%;
+   
+}
+img{
+    height: 100px;
+}
+.btn{
+background-color:  rgb(247, 147, 39);
+border-color:rgb(247, 147, 39);
+}
+
+
+.card#footer{
+    background-color:rgb(183, 4, 4);
+     margin-top: 5%;
+}

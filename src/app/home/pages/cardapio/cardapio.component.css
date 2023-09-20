@@ -1,0 +1,15 @@
+
+h1{
+    text-align: center;
+    padding: 3%;
+}
+img{
+height: 150px;
+width: 150px;
+display: block;
+margin: auto;
+}
+h2{
+    font-size: large;
+    text-align: center;
+}

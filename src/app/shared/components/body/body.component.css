@@ -1,0 +1,11 @@
+h2 {
+    text-align: center;
+    padding-bottom: 2%;
+}
+h1 {
+    text-align: center;
+}
+.banner img{
+    display: block;
+    margin: auto;
+}

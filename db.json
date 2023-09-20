@@ -1,0 +1,65 @@
+{
+  "cardapio" :[
+      {"nome": "Porção de Coxinha",
+        
+        "preco": 15,
+        "imagem":"assets/imagens/imagem.png"
+},
+{"nome": "Hamburguer Artesanal",
+
+"preco": 40,
+"imagem":"assets/imagens/imagem2.png"
+},
+{"nome": "Cachorro quente",
+
+"preco": 15,
+"imagem":"assets/imagens/imagem3.png"
+},
+{"nome": "Batata Frita",
+
+"preco": 30,
+"imagem":"assets/imagens/imagem4.png"
+} ,
+      {"nome": "Porção de Pastel",   
+"preco": 20,
+"imagem":"assets/imagens/imagem5.png"
+},
+{"nome": "Combo completo ",
+
+"preco": 50,
+"imagem":"assets/imagens/imagem6.png"
+},
+{"nome": "Gorjão de frango",
+
+"preco": 35,
+"imagem":"assets/imagens/imagem7.png"
+},
+{"nome": "Pizza",
+
+"preco": 50,
+"imagem":"assets/imagens/imagem8.png"
+},
+{"nome": "Crepe Doce ",
+
+"preco": 10,
+"imagem":"assets/imagens/imagem9.jpg"
+},
+{"nome": "Torta de Chocolate",
+
+"preco": 60,
+"imagem":"assets/imagens/imagem10.png"
+},
+{"nome": "Churros ",
+
+"preco": 10,
+"imagem":"assets/imagens/imagem12.jpg"
+},
+{"nome": "Refri Lata",
+
+"preco": 6,
+"imagem":"assets/imagens/imagem11.png"
+}
+
+  ]
+  
+}
